@@ -5,4 +5,4 @@ description: Hello I made this
 ---
 I made this myself. hey!
 
-![BDC](static/img/bcdcropped.jpg)
+![BDC](/img/bcdcropped.jpg)
